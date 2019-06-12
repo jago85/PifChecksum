@@ -1,5 +1,5 @@
 /*
-*   MIT License
+*   PifChecksum
 *   
 *   Copyright (c) 2019 jago85
 *   
